@@ -1,4 +1,4 @@
-# Import necessary libraries
+# Import necessary libraries 
 import pandas as pd  # Import pandas library for data manipulation and analysis
 from google.colab import drive  # Import drive module to access Google Drive from Colab
 
@@ -15,7 +15,7 @@ merged_data = pd.merge(orders, order_items, on='order_id')  # Combine orders and
 merged_data = pd.merge(merged_data, products, on='product_id')  # Add product information to the merged data using product_id as the key
 
 # Handle missing values
-merged_data = merged_data.dropna(subset=['product_category_name', 'price', 'order_purchase_timestamp'])  # Remove rows where essential columns have missing values
+merged_data = merged_data.dropna(subset=['product_category_name', 'price', 'order_purchase_timestamp']).copy()  # Remove rows where essential columns have missing values and create independent copy
 
 # Convert date column
 merged_data['order_purchase_timestamp'] = pd.to_datetime(merged_data['order_purchase_timestamp'])  # Convert timestamp column from string to datetime format for date operations
