@@ -1,4 +1,3 @@
-=======
 # Task 1: Business Sales Dashboard
 
 ## Overview
@@ -50,15 +49,21 @@ E-commerce businesses need actionable insights to optimize their product portfol
 ## Project Structure
 
 ```
-├── task1_preprocess.py         # Data preprocessing and cleaning
-├── Ecommerce_Dashboard.pbix    # Interactive Power BI dashboard
-├── Screenshots                 # Screenshots from the dashboard
-├── Task1_Report.docx           # Executive summary and insights
 ├── data/
-│   ├── sales_per_product.csv   # Processed product-level metrics
-│   ├── sales_per_category.csv  # Category performance data
-│   └── sales_trend.csv         # Time-series analysis data
-└── README.md                   # This file
+│   ├── sales_per_category.csv  # Category-wise sales distribution analysis
+│   ├── sales_per_product.csv   # Product-level revenue and performance metrics
+│   └── sales_trend.csv         # Monthly sales progression and trend data
+├── Screenshots/                # Visual documentation of dashboard features
+│   ├── The Clusterd Chart.png
+│   ├── The DashBoard.png
+│   ├── The Donut Chart.png
+│   ├── The Highest Revenue Generator.png
+│   ├── The Line Chart.png
+│   └── The Lowest Revenue Generator.png
+├── Ecommerce_Dashboard.pbix    # Power BI dashboard with interactive visualizations
+├── README.md                   # Project documentation and setup instructions
+├── Task1_Report.docx           # Comprehensive analysis report and recommendations
+└── task1_preprocess.py         # Python script for data cleaning and transformation
 ```
 
 ## Key Insights Discovered
