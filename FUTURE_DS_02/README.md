@@ -43,11 +43,11 @@ Social media marketing requires data-driven insights to maximize ad spend effici
 ├── Screenshots/
 │   ├── Campaign_CTR_Bar.png         # Bar chart of campaign CTR
 │   ├── Platform_Comparison.png      # Platform performance comparison
-│   ├── ROI_Summary.png              # Summary of ROI by campaign
+│   └──  ROI_Summary.png              # Summary of ROI by campaign
 ├── facebook_ad_analysis.py           # Python script for data processing and metric calculation
 ├── README.md                         # Project documentation and setup instructions
 ├── SocialMedia_Dashboard.pbix        # Power BI dashboard with interactive visualizations
-├── Task2_Summary.docx               # Report with key findings and recommendations
+└── Task2_Report.docx               # Report with key findings and recommendations
 ```
 
 ## Key Insights Discovered
