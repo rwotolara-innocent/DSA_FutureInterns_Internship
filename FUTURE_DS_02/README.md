@@ -47,7 +47,7 @@ Social media marketing requires data-driven insights to maximize ad spend effici
 ├── facebook_ad_analysis.py           # Python script for data processing and metric calculation
 ├── README.md                         # Project documentation and setup instructions
 ├── SocialMedia_Dashboard.pbix        # Power BI dashboard with interactive visualizations
-└── Task2_Report.docx               # Report with key findings and recommendations
+└── Task2_Summary.docx               # Report with key findings and recommendations
 ```
 
 ## Key Insights Discovered
