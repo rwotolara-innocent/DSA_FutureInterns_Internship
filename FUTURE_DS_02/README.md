@@ -85,7 +85,7 @@ pip install pandas
 
 2. **Download the dataset**
    - Visit Facebook Ad Campaign Dataset on Kaggle 
-   - Download and extract facebook_ad_campaign.csv
+   - Download and extract `facebook_ad_campaign.csv`
 
 3. **Run data preprocessing**
  ```bash
