@@ -100,8 +100,8 @@ pip install pandas numpy matplotlib seaborn
    ```
 
 2. **Download the dataset**
-   - Visit [Kaggle dataset page](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
-   - Download and extract to `data/raw/` folder
+   - Visit Brazilian E-Commerce Public Dataset by Olist on Kaggle
+   - Download and extract olist_orders_dataset.csv, olist_order_items_dataset.csv, and olist_products_dataset.csv
 
 3. **Run data preprocessing**
    ```bash
