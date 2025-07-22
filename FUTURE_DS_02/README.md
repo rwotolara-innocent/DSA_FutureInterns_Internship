@@ -1,19 +1,19 @@
 Task 2: Social Media Campaign Performance Tracker
 Overview
-This project focuses on analyzing social media ad campaign performance using the Facebook Ad Campaign Dataset. The goal was to calculate key metrics such as click-through rate (CTR) and return on investment (ROI) and visualize the results in an interactive Power BI dashboard to support marketing analytics.
+This project develops an interactive Power BI dashboard for analyzing social media ad campaign performance. Using the Facebook Ad Campaign Dataset, I calculated key metrics like click-through rate (CTR) and return on investment (ROI) to provide actionable insights for optimizing marketing strategies.
 Business Problem
-Social media marketing requires insights into campaign effectiveness to optimize ad spend and engagement. This project addresses questions like:
+Social media marketing requires data-driven insights to maximize ad spend efficiency and engagement. This dashboard addresses key questions:
 
-Which campaigns have the highest CTR and ROI?
+Which campaigns deliver the highest CTR and ROI?
 How do impressions, clicks, and conversions correlate with costs?
-Which platforms or campaigns deliver the best performance?
+Which platforms or campaigns perform best?
 
 Dataset
 Source: Facebook Ad Campaign Dataset
-Description: A clean dataset containing ad campaign metrics, including impressions, clicks, conversions, and costs.
+Description: A clean dataset with ad campaign metrics, including impressions, clicks, conversions, and costs.
 
 Key Columns: Campaign name, platform, impressions, clicks, conversions, cost, revenue
-Why Chosen: The dataset is straightforward, free to use, and contains all necessary metrics for analyzing ad performance.
+Why Chosen: The dataset is straightforward, free, and contains all necessary metrics for performance analysis.
 
 Technical Implementation
 Data Processing Pipeline
@@ -34,7 +34,7 @@ Platform Insights: Aggregated metrics by platform
 Project Structure
 ├── Data/
 │   ├── facebook_powerbi_data.csv     # Processed campaign-level metrics
-├── Screenshots/                      # Visual documentation of dashboard features
+├── Screenshots/
 │   ├── Campaign_CTR_Bar.png         # Bar chart of campaign CTR
 │   ├── Platform_Comparison.png      # Platform performance comparison
 │   ├── ROI_Summary.png              # Summary of ROI by campaign
