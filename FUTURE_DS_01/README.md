@@ -14,7 +14,7 @@ E-commerce businesses need actionable insights to optimize their product portfol
 
 ## Dataset
 
-**Source**: [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+**Source**: [Brazilian E-Commerce Public Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 
 **Description**: Comprehensive dataset containing 100,000+ real commercial orders from 2016-2018
 - **Orders**: 99,441 orders with timestamps and status
@@ -100,7 +100,7 @@ pip install pandas numpy matplotlib seaborn
    ```
 
 2. **Download the dataset**
-   - Visit Brazilian E-Commerce Public Dataset by Olist on Kaggle
+   - Visit Brazilian E-Commerce Public Dataset on Kaggle
    - Download and extract olist_orders_dataset.csv, olist_order_items_dataset.csv, and olist_products_dataset.csv
 
 3. **Run data preprocessing**
