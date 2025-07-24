@@ -14,6 +14,7 @@ df = pd.read_csv('marketing_data.csv')  # Load Kaggle Marketing Campaign dataset
 
 # Clean the data
 df['Dt_Customer'] = pd.to_datetime(df['Dt_Customer'], format='%d-%m-%Y', errors='coerce')  # Convert Dt_Customer to datetime with specific format
+df['Income'] = df['Income'].replace('[\$,]', '', regex=True)  # Remove dollar signs and commas from Income
 df['Income'] = pd.to_numeric(df['Income'], errors='coerce')  # Convert Income to numeric, coerce errors to NaN
 df['Income'] = df['Income'].fillna(df['Income'].mean())  # Fill missing Income values with mean of non-missing values
 df.drop_duplicates(inplace=True)  # Remove duplicate rows
