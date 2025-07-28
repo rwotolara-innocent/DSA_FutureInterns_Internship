@@ -156,6 +156,4 @@ This dashboard enables stakeholders to:
 
 For questions about this project or collaboration opportunities, please reach out!
 
----
-
 *This project is part of my Data Science & Analytics internship portfolio, demonstrating practical business intelligence and data visualization skills.*
