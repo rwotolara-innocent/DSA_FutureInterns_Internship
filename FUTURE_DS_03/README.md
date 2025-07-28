@@ -11,7 +11,7 @@ Understanding student satisfaction is key to improving college courses. This ana
 - What can we tweak to boost the learning experience?
 
 ## Dataset
-- **Source**: [student_feedback.csv](https://www.kaggle.com/datasets/ruchi798/student-feedback-survey-responses)
+- **Source**: [Student_Feedback Dataset](https://www.kaggle.com/datasets/ruchi798/student-feedback-survey-responses)
 - **Description**: A rich dataset with feedback from 1,000 students, packed with ratings on various course aspects.  
 - **Key Columns**: Student ID, Well versed with the subject, Explains concepts in an understandable way, Use of presentations, etc.  
 - **Why Chosen**: It's a goldmine of real student opinions, giving us plenty to work with!
