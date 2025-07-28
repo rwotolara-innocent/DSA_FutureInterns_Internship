@@ -121,5 +121,7 @@ This analysis helps educators:
 - **Interactive Dashboards**: Build a Power BI version for real-time exploration.
 
 ## Contact
-Got questions about this project or want to collab? Feel free to reach out!  
-This project is part of my Data Science & Analytics internship portfolio, showcasing skills in education analytics and data visualization.
+
+For questions about this projectincome: project or collaboration opportunities, please reach out!
+
+*This project is part of my Data Science & Analytics internship portfolio, showcasing skills in marketing analytics and data visualization.*
