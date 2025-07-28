@@ -1,6 +1,6 @@
 # Social Media Campaign Performance Report
 
-## Introduction
+Introduction
 I’m thrilled to share my work on Task 2 of my Data Science & Analytics internship! 🎉 I dove into the [Kaggle Marketing Campaign Dataset](https://www.kaggle.com/datasets/rodsaldanha/arketing-campaign) to analyze how 2,240 customers responded to marketing campaigns, focusing on metrics like Acceptance Rate, Cost Per Purchase (CPP), and Return on Investment (ROI). I nailed the income fix, landing on an average of $52,247.25, and built an interactive Power BI dashboard to showcase my findings. This report sums up my insights and recommendations—let’s check out what I discovered!
 
 ## Data Overview
