@@ -1,7 +1,7 @@
 # Task 3: Student Course Feedback Analysis
 
 ## Overview
-This project creates an insightful analysis of student feedback on college courses using Google Colab. With the `student_feedback.csv` dataset, I explored ratings on aspects like professor knowledge and course structure to uncover trends and suggest improvements - perfect for making learning better for everyone!
+This project creates an insightful analysis of student feedback on college courses using Google Colab. With the `student_feedback.csv` Dataset, I explored ratings on aspects like professor knowledge and course structure to uncover trends and suggest improvements - perfect for making learning better for everyone!
 
 ## Business Problem
 Understanding student satisfaction is key to improving college courses. This analysis tackles big questions:  
