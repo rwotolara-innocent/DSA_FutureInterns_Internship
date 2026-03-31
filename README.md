@@ -11,7 +11,7 @@ Interactive Power BI dashboard analyzing 100K+ e-commerce orders to identify sal
 **Impact:** Revenue optimization insights and inventory planning recommendations
 
 ### 📊 Social Media Campaign Analytics
-ROI analysis and performance tracking system for Facebook and Instagram marketing campaigns.
+ROI Analysis and performance tracking system for Facebook and Instagram marketing campaigns.
 
 **Technologies:** Python, Analytics, Performance Metrics  
 **Impact:** 340% ROI improvement opportunities identified
